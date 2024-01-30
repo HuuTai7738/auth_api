@@ -1,0 +1,7 @@
+# encoding: UTF-8
+# -*- mode: ruby -*-
+# vi: set ft=ruby :
+require 'schemas/users.schema'
+require 'schemas/blacklisted_tokens.schema'
+require 'schemas/whitelisted_tokens.schema'
+require 'schemas/refresh_tokens.schema'
